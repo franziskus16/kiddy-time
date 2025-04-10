@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285357886604",
+    "project_id": "kiddytime-99e77",
+    "storage_bucket": "kiddytime-99e77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285357886604:android:4399d6063ced09d5953fa9",
+        "android_client_info": {
+          "package_name": "com.g2.kiddyTime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcutrE9W1WNJFekgZE6_UJvmSNRWpcC4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
