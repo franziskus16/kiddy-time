@@ -10,9 +10,9 @@ import AnalogClock from '../../components/AnalogClock';
 const tasks = [
   { name: "Brush your teeth", duration: 18, image: require('../../assets/images/teeth.png'), color: '#DCF3DF' },
   { name: "Get dressed", duration: 300, image: require('../../assets/images/clothes.png'), color: '#FFD1DC' },
-  { name: "Tidy your room", duration: 600, image: require('../../assets/images/clean.webp'), color: '#FFB3BA' },
+  { name: "Tidy your room", duration: 600, image: require('../../assets/images/clean.png'), color: '#FFB3BA' },
   { name: "Reading time", duration: 1200, image: require('../../assets/images/book.png'), color: '#FFEB99' },
-  { name: "Breakfast before school", duration: 1200, image: require('../../assets/images/breakfast.webp'), color: '#A7D8E0' },
+  { name: "Breakfast before school", duration: 1200, image: require('../../assets/images/breakfast.png'), color: '#A7D8E0' },
   { name: "Bath time", duration: 900, image: require('../../assets/images/bath.png'), color: '#A2C8E1' }
 ];
 
